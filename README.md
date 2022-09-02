@@ -1,1 +1,3 @@
-# DSC_2022
+# DSC 2022
+
+Repository following Misra Course
