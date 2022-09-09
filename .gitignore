@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# SOME FROM ME
+.DS_Store
+*.parquet
